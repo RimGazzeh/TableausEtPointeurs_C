@@ -1,0 +1,23 @@
+1- Remplissaage
+
+2- Transfere
+
+3- Symetrique
+
+4- Recherche
+
+5- Tri
+
+6- Insertion
+
+7- Inversion
+
+8- Rotation
+
+9- Presents
+
+10- Absents
+
+11- Fusion
+
+12- Quitter

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProjetV02" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProjetV02" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProjetV02" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Autres.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Autres.h" />
+		<Unit filename="BD/T1.txt" />
+		<Unit filename="BD/T10.txt" />
+		<Unit filename="BD/T11.txt" />
+		<Unit filename="BD/T12.txt" />
+		<Unit filename="BD/T2.txt" />
+		<Unit filename="BD/T3.txt" />
+		<Unit filename="BD/T4.txt" />
+		<Unit filename="BD/T5.txt" />
+		<Unit filename="BD/T6.txt" />
+		<Unit filename="BD/T7.txt" />
+		<Unit filename="BD/T8.txt" />
+		<Unit filename="BD/T9.txt" />
+		<Unit filename="Edit.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Edit.h" />
+		<Unit filename="EntreSortie.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EntreSortie.h" />
+		<Unit filename="Interfaces/MenuFusion.txt" />
+		<Unit filename="Interfaces/MenuGeneral.txt" />
+		<Unit filename="Interfaces/MenuRecherche.txt" />
+		<Unit filename="Interfaces/MenuRemplissage.txt" />
+		<Unit filename="Interfaces/MenuTri.txt" />
+		<Unit filename="Interfaces/cadre1.txt" />
+		<Unit filename="Interfaces/cadre2.txt" />
+		<Unit filename="Interfaces/menu.txt" />
+		<Unit filename="Interfaces/msg.txt" />
+		<Unit filename="Interfaces/text1.txt" />
+		<Unit filename="Menus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Menus.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recherche.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recherche.h" />
+		<Unit filename="trie.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="trie.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

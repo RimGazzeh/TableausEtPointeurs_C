@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1429869281 source:c:\users\rim\documents\workspacec\projetv02\edit.c
+	"Edit.h"
+
+1427505940 c:\users\rim\documents\workspacec\projetv02\edit.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<ctype.h>
+
+1429953864 source:c:\users\rim\documents\workspacec\projetv02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menus.h"
+	"Edit.h"
+	"EntreSortie.h"
+
+1429950534 c:\users\rim\documents\workspacec\projetv02\menus.h
+	<stdio.h>
+	<stdlib.h>
+	"Edit.h"
+
+1429968230 source:c:\users\rim\documents\workspacec\projetv02\menus.c
+	"Menus.h"
+	"EntreSortie.h"
+	"Edit.h"
+	"trie.h"
+	"Autres.h"
+	"recherche.h"
+
+1427850518 source:c:\users\rim\documents\workspacec\projetv02\autres.c
+	"Autres.h"
+
+1427850261 c:\users\rim\documents\workspacec\projetv02\autres.h
+	<stdio.h>
+	<stdlib.h>
+	"EntreSortie.h"
+
+1429944489 c:\users\rim\documents\workspacec\projetv02\entresortie.h
+	<stdio.h>
+	<stdlib.h>
+
+1429944463 source:c:\users\rim\documents\workspacec\projetv02\entresortie.c
+	"EntreSortie.h"
+	"trie.h"
+	"Autres.h"
+
+1423446831 c:\users\rim\documents\workspacec\projetv02\trie.h
+	<stdio.h>
+	<stdlib.h>
+
+1429948446 source:c:\users\rim\documents\workspacec\projetv02\recherche.c
+	"recherche.h"
+
+1429945322 c:\users\rim\documents\workspacec\projetv02\recherche.h
+	<stdio.h>
+	<stdlib.h>
+
+1429962091 source:c:\users\rim\documents\workspacec\projetv02\trie.c
+	"trie.h"
+
+1427850518 source:f:\2émesem2015\workspacec\projetv02\autres.c
+	"Autres.h"
+
+1427850261 f:\2émesem2015\workspacec\projetv02\autres.h
+	<stdio.h>
+	<stdlib.h>
+	"EntreSortie.h"
+
+1429944489 f:\2émesem2015\workspacec\projetv02\entresortie.h
+	<stdio.h>
+	<stdlib.h>
+
+1429869281 source:f:\2émesem2015\workspacec\projetv02\edit.c
+	"Edit.h"
+
+1427505940 f:\2émesem2015\workspacec\projetv02\edit.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<dos.h>
+	<ctype.h>
+
+1429944463 source:f:\2émesem2015\workspacec\projetv02\entresortie.c
+	"EntreSortie.h"
+	"trie.h"
+	"Autres.h"
+
+1423446831 f:\2émesem2015\workspacec\projetv02\trie.h
+	<stdio.h>
+	<stdlib.h>
+
+1429953864 source:f:\2émesem2015\workspacec\projetv02\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menus.h"
+	"Edit.h"
+	"EntreSortie.h"
+
+1429950534 f:\2émesem2015\workspacec\projetv02\menus.h
+	<stdio.h>
+	<stdlib.h>
+	"Edit.h"
+
+1429968230 source:f:\2émesem2015\workspacec\projetv02\menus.c
+	"Menus.h"
+	"EntreSortie.h"
+	"Edit.h"
+	"trie.h"
+	"Autres.h"
+	"recherche.h"
+
+1429945322 f:\2émesem2015\workspacec\projetv02\recherche.h
+	<stdio.h>
+	<stdlib.h>
+
+1429948446 source:f:\2émesem2015\workspacec\projetv02\recherche.c
+	"recherche.h"
+
+1429962091 source:f:\2émesem2015\workspacec\projetv02\trie.c
+	"trie.h"
+

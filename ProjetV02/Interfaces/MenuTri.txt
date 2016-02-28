@@ -1,0 +1,9 @@
+1- Tri par selection
+
+2- Tri a bulles
+
+3- Tri par insertion
+
+4- Tri remplacer
+
+5- Retourner au menu principal

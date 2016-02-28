@@ -1,0 +1,23 @@
+1- Recherche distincts
+
+2- Recherche elements sup
+
+3- Recherche diviseurs multiples
+
+4- Recherche elements consecitifs
+
+5- Recherche blocs
+
+6- Recherche el_frequent
+
+7- Recherche sequencielle
+
+8- Recherche dichotomique
+
+9- Recherche median
+
+10- Recherche permutation
+
+11- Recherche nb sequences
+
+12- Retourner au menu principal
